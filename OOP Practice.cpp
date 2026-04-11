@@ -83,8 +83,8 @@ public:
 
 int main() {
 
-    Developer d("Ali", "YouTube", 23, "C++");
-    Teacher t("Ahmed", "School", 35, "Math");
+    Developer d("Shahzaib", "YouTube", 23, "C++");
+    Teacher t("Ali", "School", 35, "Math");
 
     Empolyee* e1 = &d;
     Empolyee* e2 = &t;
