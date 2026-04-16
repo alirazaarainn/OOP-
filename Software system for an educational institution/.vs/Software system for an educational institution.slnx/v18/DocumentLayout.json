@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OOP-Project\\Software system for an educational institution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF0639E-BAFC-449A-8104-61BA92EBE74A}|Software system for an educational institution\\Software system for an educational institution.vcxproj|D:\\OOP-Project\\Software system for an educational institution\\Software system for an educational institution\\Software system for an educational institution.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FF0639E-BAFC-449A-8104-61BA92EBE74A}|Software system for an educational institution\\Software system for an educational institution.vcxproj|solutionrelative:Software system for an educational institution\\Software system for an educational institution.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Software system for an educational institution.cpp",
+              "DocumentMoniker": "D:\\OOP-Project\\Software system for an educational institution\\Software system for an educational institution\\Software system for an educational institution.cpp",
+              "RelativeDocumentMoniker": "Software system for an educational institution\\Software system for an educational institution.cpp",
+              "ToolTip": "D:\\OOP-Project\\Software system for an educational institution\\Software system for an educational institution\\Software system for an educational institution.cpp*",
+              "RelativeToolTip": "Software system for an educational institution\\Software system for an educational institution.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-12T08:19:49.031Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
